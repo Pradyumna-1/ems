@@ -1,3 +1,16 @@
+# Admin Panel
+
+![image alt](https://github.com/Pradyumna-1/ems/blob/c64045ddd51ae90ba28749d83e1bce88bebdf2c8/Screenshot%20(937).png)
+
+#Employee Panel
+
+![image alt](https://github.com/Pradyumna-1/ems/blob/c64045ddd51ae90ba28749d83e1bce88bebdf2c8/Screenshot%20(938).png)
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
